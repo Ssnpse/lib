@@ -435,7 +435,7 @@ function Library:create(options)
 		Name = "Ikonik V3",
 		Size = UDim2.fromOffset(600, 400),
 		Theme = self.Themes[settings.Theme],
-		Link = "Https://Discord.gg/jojow"
+		Link = "https://discord.gg/jojow"
 	}, options)
 
 	if getgenv and getgenv().MercuryUI then
